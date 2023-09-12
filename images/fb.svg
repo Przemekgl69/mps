@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer" transform="translate(-1138.000000, -462.000000)">
+            <g id="Group" transform="translate(1139.003396, 463.000000)">
+                <path d="M15.4458931,33 L3.98409387,33 C1.78904884,32.9952897 0.00945636885,31.2195408 0,29.0245111 L0,3.98409387 C0.00473282785,1.78570297 1.78570297,0.00473282785 3.98409387,0 L28.5770535,0" id="Path" stroke="#444A46" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M32.5611473,3.98409387 L32.5611473,29.0073012 C32.5611473,31.2090518 30.7787989,32.9952548 28.5770535,33 L20.8325945,33" id="Path" stroke="#444A46" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#444A46" fill-rule="nonzero" cx="32.6041721" cy="1.11864407" r="1"></circle>
+                <path d="M15.4458931,33 L15.4458931,22.252412 L11.6597132,22.252412 L11.6597132,17.1410691 L15.4458931,17.1410691 L15.4458931,12.2104302 C15.4458931,9.35899921 17.7574347,7.04745763 20.6088657,7.04745763 L25.9697523,7.04745763 L25.9697523,11.9092568 L22.0458931,11.9092568 C21.7043636,11.9091304 21.3772959,12.0471137 21.1390611,12.2918311 C20.9008263,12.5365484 20.7716715,12.8672019 20.7809648,13.208605 L20.7809648,17.1152542 L25.9439374,17.1152542 L25.9439374,22.2782269 L20.7809648,22.2782269 L20.7809648,33" id="Path" stroke="#444A46" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
